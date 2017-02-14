@@ -1,0 +1,4 @@
+#ifndef ARDUINOSERIAL_H
+#define ARDUINOSERIAL_H
+
+#endif // ARDUINOSERIAL_H

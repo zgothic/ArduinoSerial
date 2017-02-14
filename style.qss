@@ -1,0 +1,9 @@
+QPushButton
+{
+    color:green;
+}
+
+QLabel#timeLabel
+{
+    color:#333333;
+}
